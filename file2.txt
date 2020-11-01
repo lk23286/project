@@ -1,6 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
 Home: project
 File: file1.txt
 Time: 21:46
+<<<<<<< HEAD
 Branch: Alien / master again
 Time: 00:29
+=======
+Branch: Aien2.0
+Time: 00:11
+>>>>>>> alien
 
